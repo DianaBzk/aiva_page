@@ -19,6 +19,11 @@ a {
   color: unset;
 }
 
+p,
+h1 {
+  margin: 0;
+}
+
 .container {
   margin: 0 auto;
   max-width: 970px;
